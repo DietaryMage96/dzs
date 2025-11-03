@@ -11,11 +11,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dz3", "dz3\dz3.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dz4.1", "dz4\dz4.vcxproj", "{2F776BD1-15C9-40BF-A3FF-2620BED0CDE5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{B2EF080E-B6A2-4F3E-81B6-F29019CAF9CB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dzs4all", "dzs4all", "{B2EF080E-B6A2-4F3E-81B6-F29019CAF9CB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dz4.2", "dz4.2\dz4.2.vcxproj", "{61A25C36-6E7B-4B84-9517-B9A90B0A8242}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dz4.3", "dz4.3\dz4.3.vcxproj", "{6F568FD3-B82F-4BFA-939D-BFF31F039BBC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wrgw", "wrgw\wrgw.vcxproj", "{ABC13F1D-12CB-4EFD-922A-B237E617DF96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +75,14 @@ Global
 		{6F568FD3-B82F-4BFA-939D-BFF31F039BBC}.Release|x64.Build.0 = Release|x64
 		{6F568FD3-B82F-4BFA-939D-BFF31F039BBC}.Release|x86.ActiveCfg = Release|Win32
 		{6F568FD3-B82F-4BFA-939D-BFF31F039BBC}.Release|x86.Build.0 = Release|Win32
+		{ABC13F1D-12CB-4EFD-922A-B237E617DF96}.Debug|x64.ActiveCfg = Debug|x64
+		{ABC13F1D-12CB-4EFD-922A-B237E617DF96}.Debug|x64.Build.0 = Debug|x64
+		{ABC13F1D-12CB-4EFD-922A-B237E617DF96}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABC13F1D-12CB-4EFD-922A-B237E617DF96}.Debug|x86.Build.0 = Debug|Win32
+		{ABC13F1D-12CB-4EFD-922A-B237E617DF96}.Release|x64.ActiveCfg = Release|x64
+		{ABC13F1D-12CB-4EFD-922A-B237E617DF96}.Release|x64.Build.0 = Release|x64
+		{ABC13F1D-12CB-4EFD-922A-B237E617DF96}.Release|x86.ActiveCfg = Release|Win32
+		{ABC13F1D-12CB-4EFD-922A-B237E617DF96}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

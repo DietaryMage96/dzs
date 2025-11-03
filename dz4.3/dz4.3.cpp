@@ -1,5 +1,5 @@
 // https://fs3.itstep.org/api/v1/files/BHb1de_pweiiUeAP04U_WvQmHqFwa0H8?inline=true
-// ? завдання
+// 4 завдання
 #include <iostream>
 using namespace std;
 
